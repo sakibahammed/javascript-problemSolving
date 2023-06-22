@@ -6,3 +6,8 @@ for(let i = 0 ;i< numbers.length;i++){
     
 }
 console.log(sum)
+
+
+
+// practice of data structure
+console.log('hello')
